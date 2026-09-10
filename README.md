@@ -35,6 +35,9 @@ https://asciinema.org/a/gwxIimr0hCsnhbQX
 Пример запуска игры — brain-progression
 https://asciinema.org/a/nhNEpjA7lDKjsfzl
 
+Пример запуска игры — brain-prime
+https://asciinema.org/a/ovS9jNrG6uG7fTKp
+
 ---
 
 <details>
