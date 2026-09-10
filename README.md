@@ -29,6 +29,9 @@ https://asciinema.org/a/4JZJm4zmWbirD5Cn
 Пример запуска игры — brain-calc
 https://asciinema.org/a/OxPrL99qkJdTTcHh
 
+Пример запуска игры — brain-gcd
+https://asciinema.org/a/gwxIimr0hCsnhbQX
+
 ---
 
 <details>
