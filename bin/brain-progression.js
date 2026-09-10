@@ -1,7 +1,7 @@
 #!/usr/bin/env node
 import {runGame} from '../src/index.js'
 
-let description = 'Find the greatest common divisor of given numbers.'
+let description = 'What number is missing in the progression?'
 
 const createProgression= () => {
     let lengthPr = Math.floor((Math.random()) * (10 - 5 + 1) + 5)
