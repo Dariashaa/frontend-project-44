@@ -23,8 +23,11 @@ cd frontend-project-44
 ## Использование
 
 <!-- Добавьте примеры запуска и запись asciinema — именно это смотрит работодатель -->
-Пример запуска игры - brain-even
+Пример запуска игры — brain-even
 https://asciinema.org/a/4JZJm4zmWbirD5Cn
+
+Пример запуска игры — brain-calc
+https://asciinema.org/a/OxPrL99qkJdTTcHh
 
 ---
 
