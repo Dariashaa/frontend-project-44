@@ -26,6 +26,6 @@ export const runGame = (description, generateRound) => {
         }
     }
     if (countWin === 3){
-        console.log(`Congratulations, ${userName}`)
+        console.log(`Congratulations, ${userName}!`)
         }
 }
