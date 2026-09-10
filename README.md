@@ -32,6 +32,9 @@ https://asciinema.org/a/OxPrL99qkJdTTcHh
 Пример запуска игры — brain-gcd
 https://asciinema.org/a/gwxIimr0hCsnhbQX
 
+Пример запуска игры — brain-progression
+https://asciinema.org/a/nhNEpjA7lDKjsfzl
+
 ---
 
 <details>
